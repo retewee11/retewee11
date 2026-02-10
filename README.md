@@ -10,7 +10,8 @@ Soy una persona **proactiva**, me encanta aprender y soy bastante **autodidacta*
 ---
 
 ## Badges
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2100113" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/retewee11.png" alt="Your Image Badge" />
+
 
 ---
 
